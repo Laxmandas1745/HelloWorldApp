@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJ6nOWPDrNgoKazrGK8jheVErn7zT5fRGF16xQwHdCOrF9+WpFIE4WLyEDYaxPC6qgi1agXl4E++ER0vxkx2BA==",
+  "success": true,
+  "projectFilePath": "/Users/laxmandas/Projects/HelloWorldApp/HelloWorldApp/HelloWorldApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/laxmandas/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
